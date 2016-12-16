@@ -1,22 +1,31 @@
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2015/10/22/17/32/smoke-1001664__340.png') ;
+}
+
 h1 {
-    float:left;
-padding-left: 20px;
-padding-right: 20px;
-font-size: 45px;
-font-family:;
-color: darkred;
+    margin: 50 50 50 50;
+    font-size: 45px;
+    font-family:;
+    color: white;
 }
 
 h2 {
     clear: left;
-    padding-left: 30px;
+    padding-left: 50px;
     padding-top: 40px;
+    color:white;
 }
 
-.span {
-    color: red;
+h3 {
+    color: white;
+    margin-bottom:50;
+    margin-top:50;
+    margin-left:60;
+    margin-right:50;
+    font-size: 30px;
+    
 }
 
-body {
-    background-color: grey;
+.container {
+    color:white;
 }
