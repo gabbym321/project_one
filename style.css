@@ -26,6 +26,15 @@ h3 {
     
 }
 
+p{
+    margin-right:500px;
+    background-color:black;
+}
+
+li{
+    margin-left:50px;
+}
+
 .container {
     color:white;
 }
