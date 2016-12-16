@@ -1,22 +1,23 @@
 h1 {
-    float:left;
-padding-left: 20px;
-padding-right: 20px;
-font-size: 45px;
-font-family:;
-color: darkred;
+    float:;
+    font-size: 45px;
+    font-family:;
+    color: white;
 }
 
 h2 {
     clear: left;
-    padding-left: 30px;
+    padding-left: 50px;
     padding-top: 40px;
+    color:white;
 }
+
+div
 
 .span {
     color: red;
 }
 
 body {
-    background-color: grey;
+    background-image: url('https://cdn.pixabay.com/photo/2015/10/22/17/32/smoke-1001664__340.png') ;
 }
