@@ -1,7 +1,6 @@
 body {
-    background-image: url('https://cdn.pixabay.com/photo/2015/10/22/17/32/smoke-1001664__340.png') ;
+    background-color:;
 }
-
 h1 {
     margin: 50 50 50 50;
     font-size: 45px;
@@ -27,7 +26,7 @@ h3 {
 }
 
 p{
-    margin-right:500px;
+    margin-right:20px;
     background-color:black;
 }
 
