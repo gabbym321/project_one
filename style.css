@@ -43,6 +43,7 @@ span {
 }
 
 .title {
+    padding-left: 180px;
     margin-top: 50px;
     font-size:35px;
 }
