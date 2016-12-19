@@ -2,8 +2,8 @@ body {
     background-color:darkred;
 }
 h1 {
-    margin: 50 50 50 50;
-    font-size: 45px;
+    margin: 50px 50px 40px 190px;
+    font-size: 65px;
     font-family:;
     color: white;
 }
@@ -28,6 +28,7 @@ h3 {
 p{
     margin-right:20px;
     
+    
 }
 
 li{
@@ -39,7 +40,9 @@ li{
 }
 
 span {
-    font-size:28px;
+    color:black;
+    font-size:34px;
+    
 }
 
 .title {
@@ -60,4 +63,8 @@ span {
 }
 .list {
     font-size:25px;
-    
+}   
+
+.last-line{
+    padding-left:170px;
+}
