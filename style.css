@@ -39,5 +39,24 @@ li{
 }
 
 span {
-    font-size:22px;
+    font-size:28px;
 }
+
+.title {
+    margin-top: 50px;
+    font-size:35px;
+}
+
+.paragraph{
+    padding:70px 70px 70px 70px;
+    font-size:20px;
+}
+
+.paragraph-three{
+    padding:60px 60px 60px 60px;
+    font-size:20px;
+    
+}
+.list {
+    font-size:25px;
+    
