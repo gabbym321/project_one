@@ -1,10 +1,9 @@
 body {
-    background-image: url('https://cdn.pixabay.com/photo/2015/10/22/17/32/smoke-1001664__340.png') ;
+    background-color:darkred;
 }
-
 h1 {
-    margin: 50 50 50 50;
-    font-size: 45px;
+    margin: 50px 50px 40px 190px;
+    font-size: 65px;
     font-family:;
     color: white;
 }
@@ -18,17 +17,58 @@ h2 {
 
 h3 {
     color: white;
-    margin-bottom:50;
-    margin-top:50;
-    margin-left:60;
-    margin-right:50;
+    margin-bottom:50px;
+    margin-top:50px;
+    margin-left:60px;
+    margin-right:50px;
     font-size: 30px;
     
+}
+
+p{
+    margin-right:20px;
+    
+    
+}
+
+li{
+    margin-left:50px;
 }
 
 .container {
     color:white;
 }
+<<<<<<< HEAD
 #headder {
     color: maroon;
+=======
+
+span {
+    color:black;
+    font-size:34px;
+    
+}
+
+.title {
+    padding-left: 180px;
+    margin-top: 50px;
+    font-size:35px;
+}
+
+.paragraph{
+    padding:70px 70px 70px 70px;
+    font-size:20px;
+}
+
+.paragraph-three{
+    padding:60px 60px 60px 60px;
+    font-size:20px;
+    
+}
+.list {
+    font-size:25px;
+}   
+
+.last-line{
+    padding-left:170px;
 }
