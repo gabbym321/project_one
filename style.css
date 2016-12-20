@@ -2,8 +2,8 @@ body {
     background-color:darkred;
 }
 h1 {
-    margin: 50px 50px 40px 190px;
-    font-size: 65px;
+    margin: 50 50 50 50;
+    font-size: 45px;
     font-family:;
     color: white;
 }
@@ -17,17 +17,16 @@ h2 {
 
 h3 {
     color: white;
-    margin-bottom:50px;
-    margin-top:50px;
-    margin-left:60px;
-    margin-right:50px;
+    margin-bottom:50;
+    margin-top:50;
+    margin-left:60;
+    margin-right:50;
     font-size: 30px;
     
 }
 
 p{
     margin-right:20px;
-    
     
 }
 
@@ -40,9 +39,7 @@ li{
 }
 
 span {
-    color:black;
-    font-size:34px;
-    
+    font-size:28px;
 }
 
 .title {
@@ -63,8 +60,4 @@ span {
 }
 .list {
     font-size:25px;
-}   
-
-.last-line{
-    padding-left:170px;
-}
+    
